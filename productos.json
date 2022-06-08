@@ -1,0 +1,56 @@
+[
+    {
+      "id": 0,
+     "nombre": "Zapatilla 1",
+     "precio": 13500,
+      "stock": 100,
+      "descripcion":
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores, error.",
+      "imgSrc": "./img/Zap1.jpg"
+    },
+    {
+      "id": 1,
+      "nombre": "Zapatilla 2",
+      "precio": 21650,
+      "stock": 43,
+      "descripcion":
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores, error.",
+      "imgSrc": "./img/Zap2.jpg"
+    },
+    {
+      "id": 2,
+      "nombre": "Zapatilla 3",
+      "precio": 18300,
+      "stock": 2,
+      "descripcion":
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores, error.",
+      "imgSrc": "./img/Zap3.jpg"
+    },
+    {
+      "id": 3,
+      "nombre": "Zapatilla 4",
+      "precio": 25200,
+      "stock": 5,
+      "descripcion":
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores, error.",
+      "imgSrc": "./img/Zap4.jpg"
+    },
+    {
+      "id": 4,
+      "nombre": "Zapatilla 5",
+      "precio": 29500,
+      "stock": 4,
+      "descripcion":
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores, error.",
+      "imgSrc": "./img/Zap5.jpg"
+    },
+    {
+      "id": 5,
+      "nombre": "Zapatilla 6",
+      "precio": 17900,
+      "stock": 40,
+      "descripcion":
+        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Asperiores, error.",
+      "imgSrc": "./img/Zap6.jpg"
+    }
+  ]
