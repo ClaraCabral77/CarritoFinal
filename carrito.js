@@ -64,13 +64,7 @@ const totalProductosCarrito = document.querySelector(".totalEnCarrito");
 
 /* Agregar productos */
 function agregarProductos() {
-
-    const fetch1 = async () =>{
-    const respuestaProductos= await fetch("./productos.json");
-    const arrayProducto= await respuestaProductos.json();
-
-
-  arrayProducto.forEach((producto)=> {
+  productosArray.forEach((producto)=> {
     productos.innerHTML += `
             <div class="item">
                 <div class="item-container">
@@ -95,7 +89,7 @@ function agregarProductos() {
         `;
   });
 }
-}
+
 agregarProductos()
 
 /* Array carrito */
